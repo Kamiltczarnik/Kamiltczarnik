@@ -4,7 +4,7 @@
   <img src="blocki.png" alt="UIUC Logo" width="14";"/>
 </h2>
 
-- 🔭 I’m currently working on **StatScout✊🏻 a **
+- 🔭 I’m currently working on <strong> StatScout✊🏻 </strong>
 
 - 🌱 I’m currently learning **Data Analytics and Advanced Machine Learning Models**
 
