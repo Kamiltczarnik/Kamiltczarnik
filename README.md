@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kamil Czarnik</h1>
-<h3 align="center">
-  A passionate Software Engineer, Data Analyst, and UIUC Student
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Illinois_Logo.png/600px-Illinois_Logo.png" alt="UIUC Logo" width="30" style="vertical-align: middle;"/>
-</h3>
+<h2 align="center">
+  A passionate Software Engineer, Data Analyst, and UIUC Alumn
+  <img src="blocki.png" alt="UIUC Logo" width="14";"/>
+</h2>
 
-- 🔭 I’m currently working on **StatScout ✊🏻**
+- 🔭 I’m currently working on **StatScout✊🏻 a **
 
 - 🌱 I’m currently learning **Data Analytics and Advanced Machine Learning Models**
 
-- 👨‍💻 All of my projects are available at [kamiltczarnik.com](kamiltczarnik.com)
-
-- 📫 How to reach me **Kamiltczarnik@gmail.com**
-
-- ⚡ Fun fact **I play for the UIUC Club Water Polo team and am on the Executive board.**
+- 🤽‍♂️ Fun fact **I play for the UIUC Club Water Polo team and am on the Executive board.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
