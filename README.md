@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil Czarnik</h1>
 <h2 align="center">
-  A passionate Software Engineer, Data Analyst, and UIUC Alumn
+  A passionate Software Engineer, Data Analyst, and UIUC Student
   <img src="blocki.png" alt="UIUC Logo" width="14";"/>
 </h2>
 
