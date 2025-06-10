@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <strong> StatScout✊, a personal project using realtime sports data for Machine-learning based predicitons </strong>
 
-- 🌱 I’m currently learning **Data Analytics and Advanced Machine Learning Models**
+- 🌱 I’m currently learning <strong> Data Analytics and Advanced Machine Learning Models </strong>
 
 
 <h3 align="left">Connect with me:</h3>
