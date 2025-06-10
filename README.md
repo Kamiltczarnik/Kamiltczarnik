@@ -4,11 +4,10 @@
   <img src="blocki.png" alt="UIUC Logo" width="14";"/>
 </h2>
 
-- 🔭 I’m currently working on <strong> StatScout✊🏻 </strong>
+- 🔭 I’m currently working on <strong> StatScout✊, a personal project using realtime sports data for Machine-learning based predicitons </strong>
 
 - 🌱 I’m currently learning **Data Analytics and Advanced Machine Learning Models**
 
-- 🤽‍♂️ Fun fact **I play for the UIUC Club Water Polo team and am on the Executive board.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
