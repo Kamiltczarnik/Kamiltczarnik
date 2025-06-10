@@ -4,9 +4,9 @@
   <img src="blocki.png" alt="UIUC Logo" width="14";"/>
 </h2>
 
-- 🔭 I’m currently working on <strong> StatScout✊, a personal project using realtime sports data for Machine-learning based predicitons </strong>
+- I’m currently working on <strong> StatScout✊, a personal project using realtime sports data for Machine-learning based predicitons </strong>
 
-- 🌱 I’m currently learning <strong> Data Analytics and Advanced Machine Learning Models </strong>
+- I’m currently learning <strong> Data Analytics and Advanced Machine Learning Models </strong>
 
 
 <h3 align="left">Connect with me:</h3>
